@@ -1,1 +1,2 @@
 # Property-Dealing-System
+This is a web based application, by using this application anyone can find PG(rental house) eaisly.This system gives very optimized result.This system will take two input from user, first is location and second is radius, after that system will make a radius around the location and property are highlighted by the marker on the map. So that any user can find the closest PG(rental house) from their desired location.
